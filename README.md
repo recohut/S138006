@@ -71,7 +71,7 @@ Note: For the graph with negative edges, we adopt a multi-layer perceptron (MLP)
 <p><center><img src='./images/algorithm.png'></center></p>
 
 ### Tutorials
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RecoHut-Stanzas/S138006/]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RecoHut-Stanzas/S138006/)
 
 ### SiReN on ML-1m in PyTorch
 
@@ -94,17 +94,17 @@ The code flow is again same as that of the ML-1m tutorial notebook, with some mi
 ### Supplementary Material
 The general process can be understood with this architecture proposed in SiReN model:
 
-<p><center><img src='_images/aggregation.png'></center></p>
+<p><center><img src='./images/aggregation.png'></center></p>
 
 Note: The LAYER-AGG operation is motivated by the argument that oversmoothing tends to occur in GNN-based recommender systems if the last GNN layer’s embedding vectors are used as the final embedding Z^p.
 
 **LR-GCCF**
 
-<p><center><img src='_images/lrfccf.png'></center></p>
+<p><center><img src='./images/lrfccf.png'></center></p>
 
 **LightGCN**
 
-<p><center><img src='_images/lightgcn.png'></center></p>
+<p><center><img src='./images/lightgcn.png'></center></p>
 
 ### Links & References
 
