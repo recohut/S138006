@@ -100,7 +100,7 @@ Note: The LAYER-AGG operation is motivated by the argument that oversmoothing te
 
 **LR-GCCF**
 
-<p><center><img src='./images/lrfccf.png'></center></p>
+<p><center><img src='./images/lrgccf.png'></center></p>
 
 **LightGCN**
 
